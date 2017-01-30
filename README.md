@@ -1,5 +1,12 @@
-IA pel Joc d'EDA Bola de Drac (QT 2012-2013)
+# WaitForIt
 
-Web del Joc: https://boladedrac.jutge.org/
+IA guanyadora del Joc d'EDA **Bola de Drac** (FIB UPC - Q1 2012-2013)
 
-Què fa el Goku: http://www.moleculardensity.net/fibupc/joc-eda-bola-de-drac
+Què fa el Goku: http://www.moleculardensity.net/fib-upc/joc-eda-bola-de-drac
+
+Vídeo de la final: http://media.fib.upc.edu/fibtv/streamingmedia/view/2/654
+
+Partides de demostració:
+
+[![Bola-De-Drac-EDA](/goku-screenshot.png)](https://www.youtube.com/watch?v=yqoAKQw-s8g)
+
