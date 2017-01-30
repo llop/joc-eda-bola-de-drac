@@ -1,6 +1,6 @@
 # WaitForIt
 
-IA guanyadora del Joc d'EDA **Bola de Drac** (FIB UPC - Q1 2012-2013)
+IA guanyadora del Joc d'EDA (FIB) i Algorísmia (FME) **Bola de Drac** (UPC - Q1 2012-2013)
 
 Què fa el Goku: http://www.moleculardensity.net/fib-upc/joc-eda-bola-de-drac
 
